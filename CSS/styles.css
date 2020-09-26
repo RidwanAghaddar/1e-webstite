@@ -1,0 +1,12 @@
+body{
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+
+    background-color:rgb(60, 107, 177);
+    width: 850px;
+    margin: 10px auto;
+}
+img{
+    display: block;
+    width: 250px;
+    padding: 10px;
+}
